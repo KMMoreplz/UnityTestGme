@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 0c9eb84314e15b04d9b6a160a1c1dc7f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - player: {fileID: 7684278711417980291, guid: 93201389d1db6e545b851db084bce623, type: 3}
+  - eat: {fileID: 7973118721587789600, guid: 2c4d57a503a738547bf661d07634f972, type: 3}
+  - cam: {instanceID: 0}
+  - SpawnPos: {instanceID: 0}
+  - scoreText: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
